@@ -1,0 +1,1 @@
+Stores shell permissions
