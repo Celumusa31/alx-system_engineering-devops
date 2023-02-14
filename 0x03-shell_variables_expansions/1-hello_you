@@ -1,0 +1,2 @@
+#!/bib/bash
+who --message "hello user"
