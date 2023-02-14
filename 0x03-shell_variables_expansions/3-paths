@@ -1,2 +1,2 @@
 #!/bin/bash
-export PATH=$PATH -type d | wc -l
+ls -l PATH=$PATH | grep ^d | wc -l
